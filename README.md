@@ -42,16 +42,18 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Where can I see your demo?
 - What was your experience?
-- What have you learned/improved?
+Great 😀
+- What have you learned/improved? 
+I learned how to develop responsive content🙂
 - Your wisdom? :)
+beginner🤙
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML]
+- [CSS]
 
 ## Features
 
@@ -70,7 +72,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [in-progress](https://{your-web-site-link})
+- GitHub [@alexmf28](https://github.com/alexmf28)
+- Linkedin [@jaime-alexis-munarriz-fernandez](https://www.linkedin.com/in/jaime-alexis-munarriz-fernandez-03b370203)
  
