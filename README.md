@@ -39,8 +39,6 @@
 [![TeamPage.png](https://i.postimg.cc/851dPm46/TeamPage.png)](https://postimg.cc/v1Nx09pY)
 [![Team-Dev.png](https://i.postimg.cc/8CGMtmq0/Team-Dev.png)](https://postimg.cc/qNmN7yBs)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - Where can I see your demo?
 - What was your experience?
 Great 😀
