@@ -71,7 +71,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [in-progress](https://hardcore-ptolemy-8f50ef.netlify.app)
+- Website [in-progress](https://wonderful-joliot-3657ed.netlify.app)
 - GitHub [@alexmf28](https://github.com/alexmf28)
 - Linkedin [@jaime-alexis-munarriz-fernandez](https://www.linkedin.com/in/jaime-alexis-munarriz-fernandez-03b370203)
  
